@@ -2,7 +2,6 @@
 # out the current state.
 
 def display_board(board)
-  board = ["", "", "", " ", " ", " ", " ", " ", " "]
 
   # cell = "   creates a space we don't currently need"
   separator = "|"
